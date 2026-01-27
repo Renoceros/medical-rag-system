@@ -1,6 +1,7 @@
 apikey.txt
 *.pdf
-
+/MedAI/*
+/vector_db/*
 # Created by https://www.toptal.com/developers/gitignore/api/python,virtualenv
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,virtualenv
 
