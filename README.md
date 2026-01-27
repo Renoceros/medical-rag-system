@@ -44,6 +44,9 @@ medical-rag-system/
 ## 🚀 Quick Start
 
 ```bash
+# Make a Virtual Enviorment
+python -m venv medaivenv | source medaivenv/bin/activate
+
 # Install dependencies
 pip install -r requirements.txt
 
